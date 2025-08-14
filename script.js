@@ -24,4 +24,9 @@ async function drawCards() {
 
     container.appendChild(cardDiv);
   });
+
 }
+fetch('du-lieu/tarot.json')
+  .then(res => res.json())
+  .then(data => console.log('Dữ liệu tarot:', data))
+  .catch(err => console.error('Lỗi khi tải dữ liệu:', err));

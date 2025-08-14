@@ -1,0 +1,173 @@
+[
+  {
+    "number": 0,
+    "name": "Kẻ Khờ (The Fool)",
+    "suit": "Major",
+    "meaning_upright": "Khởi đầu mới, sự ngây thơ, tiềm năng chưa được khám phá.",
+    "meaning_reversed": "Thiếu chuẩn bị, hành động liều lĩnh, ngây thơ quá mức.",
+    "image": "fool.jpg"
+  },
+  {
+    "number": 1,
+    "name": "Pháp Sư (The Magician)",
+    "suit": "Major",
+    "meaning_upright": "Sáng tạo, hành động, sử dụng tài nguyên.",
+    "meaning_reversed": "Lừa dối, thao túng, tiềm năng chưa khai thác.",
+    "image": "magician.jpg"
+  },
+  {
+    "number": 2,
+    "name": "Thầy Tế Nữ (The High Priestess)",
+    "suit": "Major",
+    "meaning_upright": "Trực giác, bí ẩn, tri thức tiềm ẩn.",
+    "meaning_reversed": "Thiếu kết nối với trực giác, bí mật bị che giấu.",
+    "image": "high_priestess.jpg"
+  },
+  {
+    "number": 3,
+    "name": "Hoàng Hậu (The Empress)",
+    "suit": "Major",
+    "meaning_upright": "Nuôi dưỡng, phong phú, sáng tạo.",
+    "meaning_reversed": "Phụ thuộc, thiếu sáng tạo, mất cân bằng.",
+    "image": "empress.jpg"
+  },
+  {
+    "number": 4,
+    "name": "Hoàng Đế (The Emperor)",
+    "suit": "Major",
+    "meaning_upright": "Quyền lực, cấu trúc, sự kiểm soát.",
+    "meaning_reversed": "Độc đoán, cứng nhắc, thiếu linh hoạt.",
+    "image": "emperor.jpg"
+  },
+  {
+    "number": 5,
+    "name": "Giáo Hoàng (The Hierophant)",
+    "suit": "Major",
+    "meaning_upright": "Truyền thống, niềm tin, hướng dẫn tinh thần.",
+    "meaning_reversed": "Chống lại quy tắc, tự do cá nhân, nghi ngờ niềm tin.",
+    "image": "hierophant.jpg"
+  },
+  {
+    "number": 6,
+    "name": "Những Người Yêu Nhau (The Lovers)",
+    "suit": "Major",
+    "meaning_upright": "Tình yêu, sự lựa chọn, hòa hợp.",
+    "meaning_reversed": "Mâu thuẫn, chia ly, quyết định khó khăn.",
+    "image": "lovers.jpg"
+  },
+  {
+    "number": 7,
+    "name": "Chiến Xa (The Chariot)",
+    "suit": "Major",
+    "meaning_upright": "Chiến thắng, quyết tâm, kiểm soát.",
+    "meaning_reversed": "Thiếu định hướng, mất kiểm soát, trì hoãn.",
+    "image": "chariot.jpg"
+  },
+  {
+    "number": 8,
+    "name": "Sức Mạnh (Strength)",
+    "suit": "Major",
+    "meaning_upright": "Can đảm, kiên nhẫn, kiểm soát nội tâm.",
+    "meaning_reversed": "Thiếu tự tin, sợ hãi, mất kiểm soát.",
+    "image": "strength.jpg"
+  },
+  {
+    "number": 9,
+    "name": "Ẩn Sĩ (The Hermit)",
+    "suit": "Major",
+    "meaning_upright": "Tìm kiếm nội tâm, cô lập, trí tuệ.",
+    "meaning_reversed": "Cô đơn, trốn tránh, mất kết nối.",
+    "image": "hermit.jpg"
+  },
+  {
+    "number": 10,
+    "name": "Bánh Xe Số Phận (Wheel of Fortune)",
+    "suit": "Major",
+    "meaning_upright": "Biến đổi, vận may, chu kỳ.",
+    "meaning_reversed": "Xui xẻo, trì hoãn, kháng cự thay đổi.",
+    "image": "wheel_of_fortune.jpg"
+  },
+  {
+    "number": 11,
+    "name": "Công Lý (Justice)",
+    "suit": "Major",
+    "meaning_upright": "Cân bằng, sự thật, luật pháp.",
+    "meaning_reversed": "Bất công, thiên vị, trốn tránh trách nhiệm.",
+    "image": "justice.jpg"
+  },
+  {
+    "number": 12,
+    "name": "Người Bị Treo (The Hanged Man)",
+    "suit": "Major",
+    "meaning_upright": "Hy sinh, nhìn nhận mới, trì hoãn có mục đích.",
+    "meaning_reversed": "Bế tắc, từ chối thay đổi, lãng phí thời gian.",
+    "image": "hanged_man.jpg"
+  },
+  {
+    "number": 13,
+    "name": "Cái Chết (Death)",
+    "suit": "Major",
+    "meaning_upright": "Kết thúc, chuyển đổi, tái sinh.",
+    "meaning_reversed": "Trì hoãn thay đổi, sợ mất mát, bám víu quá khứ.",
+    "image": "death.jpg"
+  },
+  {
+    "number": 14,
+    "name": "Tiết Chế (Temperance)",
+    "suit": "Major",
+    "meaning_upright": "Hài hòa, kiên nhẫn, cân bằng.",
+    "meaning_reversed": "Cực đoan, mất cân bằng, thiếu kiên nhẫn.",
+    "image": "temperance.jpg"
+  },
+  {
+    "number": 15,
+    "name": "Quỷ Dữ (The Devil)",
+    "suit": "Major",
+    "meaning_upright": "Ràng buộc, cám dỗ, nghiện ngập.",
+    "meaning_reversed": "Giải thoát, nhận thức, phục hồi.",
+    "image": "devil.jpg"
+  },
+  {
+    "number": 16,
+    "name": "Tòa Tháp (The Tower)",
+    "suit": "Major",
+    "meaning_upright": "Sụp đổ, thay đổi đột ngột, khai sáng.",
+    "meaning_reversed": "Tránh khủng hoảng, kháng cự thay đổi, cảnh báo.",
+    "image": "tower.jpg"
+  },
+  {
+    "number": 17,
+    "name": "Ngôi Sao (The Star)",
+    "suit": "Major",
+    "meaning_upright": "Hy vọng, chữa lành, cảm hứng.",
+    "meaning_reversed": "Mất niềm tin, thất vọng, thiếu định hướng.",
+    "image": "star.jpg"
+  },
+  {
+    "number": 18,
+    "name": "Mặt Trăng (The Moon)",
+    "suit": "Major",
+    "meaning_upright": "Ảo ảnh, trực giác, tiềm thức.",
+    "meaning_reversed": "Lừa dối, hoang mang, tiết lộ bí mật.",
+    "image": "moon.jpg"
+  },
+  {
+    "number": 19,
+    "name": "Mặt Trời (The Sun)",
+    "suit": "Major",
+    "meaning_upright": "Thành công, hạnh phúc, rõ ràng.",
+    "meaning_reversed": "Lạc quan giả tạo, trì hoãn, thiếu rõ ràng.",
+    "image": "sun.jpg"
+  },
+  {
+    "number": 20,
+    "name": "Phán Xét (Judgement)",
+    "suit": "Major",
+    "meaning_upright": "Thức tỉnh, quyết định, tái sinh.",
+    "meaning_reversed": "Phán xét sai, trì hoãn, nghi ngờ bản thân.",
+    "image": "judgement.jpg"
+  },
+  {
+    "number": 21,
+    "name": "Thế Giới (The World)",
+   
